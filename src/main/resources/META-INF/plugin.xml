@@ -9,6 +9,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.th7mo.themeo.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.th7mo.themeo.services.MyProjectService"/>
+        <themeProvider id="c3405b14-319f-11ec-8d3d-0242ac130003" path="/ThemeO.theme.json" />
     </extensions>
 
     <applicationListeners>
