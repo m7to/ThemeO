@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.th7mo.themeo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.th7mo.themeo.MyBundle
 
 class MyApplicationService {
 
