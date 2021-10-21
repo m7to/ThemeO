@@ -1,9 +1,29 @@
 <scheme name="ThemeO" version="142" parent_scheme="Darcula">
   <colors>
     <option name="ADDED_LINES_COLOR" value="536355" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1c1c1c" />
     <option name="DELETED_LINES_COLOR" value="9a4353" />
+    <option name="FILESTATUS_ADDED" value="96e0a6" />
+    <option name="FILESTATUS_COPIED" value="96e0a6" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="585555" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="db5460" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="db5460" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="db5460" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="96e0a6" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="96e0a6" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="96e0a6" />
+    <option name="FILESTATUS_MERGED" value="bb80bf" />
+    <option name="FILESTATUS_MODIFIED" value="90bbec" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="90bbec" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="90bbec" />
+    <option name="FILESTATUS_RENAMED" value="90bbec" />
+    <option name="FILESTATUS_UNKNOWN" value="db5460" />
+    <option name="FILESTATUS_addedOutside" value="96e0a6" />
+    <option name="FILESTATUS_changelistConflict" value="db5460" />
+    <option name="FILESTATUS_modifiedOutside" value="90bbec" />
+    <option name="GUTTER_BACKGROUND" value="232222" />
     <option name="LINE_NUMBERS_COLOR" value="737374" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dbeaf1" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="bad3f6" />
     <option name="SELECTED_TEARLINE_COLOR" value="90bbec" />
     <option name="SELECTION_BACKGROUND" value="384272" />
     <option name="TEARLINE_COLOR" value="769ac1" />
@@ -22,6 +42,11 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="a7bfdc" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="3a96dd" />
@@ -34,6 +59,12 @@
         <option name="BACKGROUND" value="245980" />
       </value>
     </option>
+    <option name="CONSOLE_CYAN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="90bbec" />
+        <option name="BACKGROUND" value="154f4f" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="db5460" />
@@ -41,8 +72,14 @@
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="16c60c" />
+        <option name="FOREGROUND" value="90bbec" />
         <option name="BACKGROUND" value="47840c" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="96e0a6" />
+        <option name="BACKGROUND" value="39511f" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -50,9 +87,27 @@
         <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="db5460" />
+        <option name="BACKGROUND" value="b82421" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="db5460" />
+        <option name="BACKGROUND" value="772e2c" />
+      </value>
+    </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cccccc" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="90bbec" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
@@ -71,7 +126,6 @@
       <value>
         <option name="FOREGROUND" value="90bbec" />
         <option name="EFFECT_COLOR" value="5796d9" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -268,9 +322,35 @@
         <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
+    <option name="KOTLIN_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="cccccc" />
+      </value>
+    </option>
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a7bfdc" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -316,7 +396,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="cccccc" />
-        <option name="BACKGROUND" value="151515" />
+        <option name="BACKGROUND" value="1a1a1a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -343,6 +423,18 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="db5460" />
+      </value>
+    </option>
+    <option name="VELOCITY_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="a7bfdc" />
+      </value>
+    </option>
+    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="VELOCITY_REFERENCE" baseAttributes="JSP_ATTRIBUTE_NAME" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f9f1a5" />
@@ -361,6 +453,14 @@
         <option name="FOREGROUND" value="db5460" />
       </value>
     </option>
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="cccccc" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
