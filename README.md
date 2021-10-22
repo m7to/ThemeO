@@ -1,7 +1,7 @@
 # ThemeO
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/17840-themeo.svg)](https://plugins.jetbrains.com/plugin/17840-themeo)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/17840-themeo.svg)](https://plugins.jetbrains.com/plugin/17840-themeo)
 
 <!-- Plugin description -->
 A minimalistic looking dark theme for Jetbrains. Designed for a streamlined workflow based on a custom color palette.
@@ -20,6 +20,9 @@ A minimalistic looking dark theme for Jetbrains. Designed for a streamlined work
 - Using IDE built-in plugin system:
   
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "ThemeO"</kbd> >
+  
+  ![](src/main/resources/images/install.png)
+  
   <kbd>Install Plugin</kbd>
   
 - Manually:
