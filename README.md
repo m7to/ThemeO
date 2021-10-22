@@ -1,7 +1,7 @@
 # ThemeO
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/17840-themeo)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/17840-themeo)
+[![Version](https://img.shields.io/jetbrains/plugin/v/17840-themeo.svg)](https://plugins.jetbrains.com/plugin/17840-themeo)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/17840-themeo.svg)](https://plugins.jetbrains.com/plugin/17840-themeo)
 
 <!-- Plugin description -->
 A minimalistic looking dark theme for Jetbrains. Designed for a streamlined workflow based on a custom color palette.
